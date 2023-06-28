@@ -1,3 +1,5 @@
+//Docs : https://groovy-lang.org/documentation.html
+
 String host="10.10.14.2";
 int port=443;
 String cmd="cmd.exe"; //switch this out with /bin/bash if Jenkins is running on a Linux box
